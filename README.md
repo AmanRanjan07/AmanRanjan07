@@ -163,11 +163,21 @@ I regularly practice programming problems to strengthen my **DSA and problem-sol
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanranjan07&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanranjan07&layout=compact&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amanranjan07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Aman's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanranjan07&layout=compact&hide_border=true&langs_count=8"
+    alt="Aman's Top Languages"
+    height="180"
+  />
 </p>
 
 ---
@@ -175,7 +185,10 @@ I regularly practice programming problems to strengthen my **DSA and problem-sol
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amanranjan07&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=amanranjan07&hide_border=true"
+    alt="Aman's GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -183,7 +196,10 @@ I regularly practice programming problems to strengthen my **DSA and problem-sol
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanranjan07&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=amanranjan07&theme=flat&no-frame=true&margin-w=10&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -191,7 +207,10 @@ I regularly practice programming problems to strengthen my **DSA and problem-sol
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanranjan07&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=amanranjan07&hide_border=true&area=true"
+    alt="Aman's GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
