@@ -5,11 +5,14 @@ B.Tech CSE Student | Aspiring Software Developer | DSA • Java • Python • S
 </h3>
 
 <p align="center">
-  <a href="https://github.com/amanranjan07">
-    <img src="https://komarev.com/ghpvc/?username=amanranjan07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://komarev.com/ghpvc/?username=AmanRanjan07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/amanranjan07?tab=followers">
-    <img src="https://img.shields.io/github/followers/amanranjan07?label=Followers&style=flat" alt="GitHub Followers"/>
+  <a href="https://github.com/AmanRanjan07?tab=followers">
+    <img src="https://img.shields.io/github/followers/AmanRanjan07?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/github/stars/AmanRanjan07?label=Stars&style=flat" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -19,14 +22,14 @@ B.Tech CSE Student | Aspiring Software Developer | DSA • Java • Python • S
 
 I'm a **B.Tech Computer Science Engineering student** passionate about software development, problem solving, and building practical projects.
 
-* 🔭 Currently working on **Market Basket Analysis & Association Rule Mining**
-* 🌱 Currently learning **Java, Python, SQL, DSA, Git & GitHub**
-* 💻 Interested in **Software Development, Data Analysis & Backend Development**
-* 🧠 Practicing **Data Structures & Algorithms** and improving problem-solving skills
-* 🤝 Open to collaborating on **open-source and software development projects**
-* 🚀 Focused on building **real-world projects and becoming a better developer**
-* 📫 Reach me at **[2300033544cse1@gmail.com](mailto:2300033544cse1@gmail.com)**
-* ⚡ Fun fact: **I think I am funny 😄**
+- 🔭 Currently working on **Market Basket Analysis & Association Rule Mining**
+- 🌱 Currently learning **Java, Python, SQL, DSA, Git & GitHub**
+- 💻 Interested in **Software Development, Data Analysis & Backend Development**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🤝 Looking to collaborate on **Open-Source and Software Development Projects**
+- 🚀 Focused on building **real-world projects and improving my development skills**
+- 📫 Reach me at **2300033544cse1@gmail.com**
+- ⚡ Fun fact: **I think I am funny 😄**
 
 ---
 
@@ -35,87 +38,41 @@ I'm a **B.Tech Computer Science Engineering student** passionate about software 
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
 </p>
 
 ### 🌐 Web Development
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-</a>
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-</a>
-<a href="https://vuejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js"/>
-</a>
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
 ### 🗄️ Databases & Data
 
 <p align="left">
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
 </p>
 
 ### ⚙️ Tools & Technologies
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-</a>
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-</a>
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-</a>
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
 </p>
 
 ---
@@ -126,131 +83,169 @@ I'm a **B.Tech Computer Science Engineering student** passionate about software 
 
 **Association Rule Mining project** focused on discovering relationships between products in transaction data.
 
-**Tech:** Python • Pandas • Data Analysis • Association Rule Mining
+**Technologies:** Python • Pandas • Data Analysis • Association Rule Mining
 
-> Exploring customer purchasing patterns and discovering useful product associations from transactional data.
+> Analyzing customer purchasing patterns and discovering useful product associations from transactional data.
 
 ---
 
 ### 💻 More Projects
 
-Check out my GitHub repositories for projects involving:
+Explore my repositories for projects involving:
 
-* ☕ Java
-* 🐍 Python
-* 🗄️ SQL & Databases
-* 🧩 Data Structures & Algorithms
-* 🌐 Web Development
-* 📊 Data Analysis
+- ☕ Java
+- 🐍 Python
+- 🗄️ SQL & Databases
+- 🧩 Data Structures & Algorithms
+- 🌐 Web Development
+- 📊 Data Analysis
 
-👉 **Explore all my projects:**
-https://github.com/amanranjan07?tab=repositories
+<p align="center">
+  <a href="https://github.com/AmanRanjan07?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+  </a>
+</p>
 
 ---
 
 ## 🧠 Problem Solving
 
-I regularly practice programming problems to strengthen my **DSA and problem-solving skills**.
+I regularly practice programming problems to strengthen my **Data Structures, Algorithms, and problem-solving skills**.
 
 <p align="center">
+
   <a href="https://leetcode.com/aman_ranjan07/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-aman__ranjan07-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
+
   <a href="https://www.codechef.com/users/amanranjan3544">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-amanranjan3544-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+
 </p>
 
 ---
 
----
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=amanranjan07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Aman's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanranjan07&layout=compact&hide_border=true&langs_count=8"
-    alt="Aman's Top Languages"
-    height="180"
-  />
+
+  <a href="https://github.com/AmanRanjan07?tab=repositories">
+    <img src="https://img.shields.io/badge/Total%20Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+
+  <a href="https://github.com/AmanRanjan07?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-View%20on%20GitHub-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+  </a>
+
+  <a href="https://github.com/AmanRanjan07?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-View%20on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/github/commit-activity/y/AmanRanjan07?style=for-the-badge&label=YEARLY%20COMMITS" alt="Yearly Commits"/>
+  </a>
+
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/github/last-commit/AmanRanjan07/AmanRanjan07?style=for-the-badge&label=LAST%20PROFILE%20UPDATE" alt="Last Commit"/>
+  </a>
+
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=amanranjan07&hide_border=true"
+    src="https://streak-stats.demolab.com?user=AmanRanjan07&hide_border=true"
     alt="Aman's GitHub Contribution Streak"
   />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=amanranjan07&theme=flat&no-frame=true&margin-w=10&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
 
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=amanranjan07&hide_border=true&area=true"
-    alt="Aman's GitHub Contribution Activity Graph"
-  />
-</p>
-
----
-
-## 📌 GitHub Overview
-
-| 📊 Metric             | 🔗 View                                                               |
-| --------------------- | --------------------------------------------------------------------- |
-| 📁 Total Repositories | [View Repositories](https://github.com/amanranjan07?tab=repositories) |
-| ⭐ Stars Received      | [View Stars](https://github.com/amanranjan07?tab=repositories)        |
-| 👥 Followers          | [View Followers](https://github.com/amanranjan07?tab=followers)       |
-| 📝 Contributions      | [View Contributions](https://github.com/amanranjan07)                 |
-| 🧩 LeetCode           | [View Profile](https://leetcode.com/aman_ranjan07/)                   |
-| 🍳 CodeChef           | [View Profile](https://www.codechef.com/users/amanranjan3544)         |
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aman-ranjan-477534291/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/aman_ranjan07/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode"/>
+
+  <a href="https://github.com/AmanRanjan07?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/amanranjan3544" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40" alt="CodeChef"/>
+
+  <a href="https://github.com/AmanRanjan07?tab=followers">
+    <img src="https://img.shields.io/badge/Community-Followers-green?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
   </a>
+
 </p>
 
 <p align="center">
-  📧 <strong>2300033544cse1@gmail.com</strong>
+
+  ⭐ Building projects  
+  &nbsp;•&nbsp;
+  💻 Solving problems  
+  &nbsp;•&nbsp;
+  🚀 Learning continuously  
+  &nbsp;•&nbsp;
+  🤝 Collaborating  
+
 </p>
 
 ---
 
-## 📄 Resume
+# 📈 Contribution Activity
+
+<p align="center">
+
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/github/commit-activity/m/AmanRanjan07?style=for-the-badge&label=MONTHLY%20ACTIVITY" alt="Monthly Activity"/>
+  </a>
+
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/github/commit-activity/y/AmanRanjan07?style=for-the-badge&label=YEARLY%20ACTIVITY" alt="Yearly Activity"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/github/created-at/AmanRanjan07/AmanRanjan07?style=for-the-badge&label=PROFILE%20CREATED" alt="Profile Created"/>
+  </a>
+
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/github/last-commit/AmanRanjan07/AmanRanjan07?style=for-the-badge&label=LATEST%20COMMIT" alt="Latest Commit"/>
+  </a>
+
+</p>
+
+---
+
+# 📌 My GitHub
+
+<p align="center">
+
+  <a href="https://github.com/AmanRanjan07">
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://github.com/AmanRanjan07?tab=repositories">
+    <img src="https://img.shields.io/badge/My%20Repositories-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+
+</p>
+
+---
+
+# 📄 Resume
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1WU36Nu1VisBGEebwV1fZcXDP7QPc_RDs/view">
@@ -260,16 +255,31 @@ I regularly practice programming problems to strengthen my **DSA and problem-sol
 
 ---
 
-## 💡 My Developer Journey
+# 🤝 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/aman-ranjan-477534291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:2300033544cse1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://leetcode.com/aman_ranjan07/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/amanranjan3544" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+
+</p>
+
+---
+
+# 💡 Developer Journey
 
 ```text
-Learn → Practice → Build → Break → Debug → Improve → Repeat 🔁
-```
-
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
-
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
-</p>
+Learn → Practice → Build → Debug → Improve → Repeat 🔁
