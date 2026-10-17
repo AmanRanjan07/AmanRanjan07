@@ -99,7 +99,7 @@ Explore my repositories for projects involving:
 - 🧩 Data Structures & Algorithms
 - 🌐 Web Development
 - 📊 Data Analysis
-- <img src="https://jsdelivr.net" width="20" height="20" alt="Spring Boot icon" style="vertical-align: middle;"/> **Spring Boot**
+- 🟢 Spring Boot
 
 
 <p align="center">
